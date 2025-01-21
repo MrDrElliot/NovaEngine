@@ -4,8 +4,11 @@ version = 4
 
 [[package]]
 name = "NovaEngine"
-version = "0.1.2"
+version = "0.1.3"
+dependencies = [
+ "nova_core",
+]
 
 [[package]]
-name = "nova-core"
+name = "nova_core"
 version = "0.1.0"

@@ -1,2 +1,7 @@
+// Re-export everything from the nova_core crate
+pub use nova_core::*;
 
-// Re-export nova-core so that it is accessible via the main crate
+// Example functionality for the Nova engine
+pub fn engine_function() {
+    println!("Nova engine is running!");
+}
