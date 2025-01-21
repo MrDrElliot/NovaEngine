@@ -1,8 +1,12 @@
 [package]
-name = "NovaEngine"
+name = "Nova"
 description = "An ECS Engine"
 version = "0.1.0"
 edition = "2021"
 license = "Apache-2.0"
 
-[dependencies]
+[workspace]
+members = [
+
+    "nova-core",
+]

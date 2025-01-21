@@ -3,5 +3,9 @@
 version = 4
 
 [[package]]
-name = "NovaEngine"
+name = "Nova"
+version = "0.1.0"
+
+[[package]]
+name = "nova-core"
 version = "0.1.0"
