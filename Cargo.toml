@@ -1,5 +1,5 @@
 [package]
-name = "Nova"
+name = "nova_game_engine"
 description = "An ECS Engine"
 version = "0.1.0"
 edition = "2021"
