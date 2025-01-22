@@ -6,7 +6,7 @@ edition = "2021"
 license = "Apache-2.0"
 
 [dependencies]
-nova_core = { path = "nova_core" }
+nova_core = { path = "nova_core", version = "0.1.0" }
 
 [workspace]
 members = [
