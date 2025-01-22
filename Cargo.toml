@@ -6,9 +6,9 @@ edition = "2021"
 license = "Apache-2.0"
 
 [dependencies]
-nova_core = { path = "nova_core", version = "0.1.0" }
+nova_engine_core = { path = "nova_engine_core", version = "0.1.0" }
 
 [workspace]
 members = [
-    "nova_core",    # This is the nova_core crate
+    "nova_engine_core",    # This is the nova_engine_core crate
 ]

@@ -6,9 +6,9 @@ version = 4
 name = "NovaEngine"
 version = "0.1.3"
 dependencies = [
- "nova_core",
+ "nova_engine_core",
 ]
 
 [[package]]
-name = "nova_core"
+name = "nova_engine_core"
 version = "0.1.0"
